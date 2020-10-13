@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01'
 title: 'Web Developer'
-company: 'ISTA'
+company: 'ISTA 1 Safi'
 location: 'Safi, Morocco'
 range: 'August - September 2019'
 url: ''
